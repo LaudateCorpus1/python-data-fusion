@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/googleapis/python-data-fusion/compare/v1.3.0...v1.4.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#63](https://github.com/googleapis/python-data-fusion/issues/63)) ([d57bee2](https://github.com/googleapis/python-data-fusion/commit/d57bee22c85867dfe7062dc391524cf5750b9474))
+
 ## [1.3.0](https://github.com/googleapis/python-data-fusion/compare/v1.2.1...v1.3.0) (2022-01-14)
 
 
